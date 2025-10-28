@@ -70,7 +70,7 @@ MANAGERDOMAIN=themoneytizer.com
 Media.net, 8CU3320BH, RESELLER
 Media.net, 8CU695QH7, RESELLER
 Media.net, 8CUZ310G2, DIRECT
-Openx.com, 537143344, Reseller
+Openx.com, 537143344, RESELLER
 Playstream.media, 2294, DIRECT
 Pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 161094, DIRECT, 5d62403b186f2ace
@@ -244,7 +244,7 @@ adsyield.com,1231,RESELLER
 adtarget.com.tr, 751601, DIRECT
 adtarget.com.tr, 765564, RESELLER
 adtech.com, 10109, DIRECT
-adtech.com, 11095, Reseller
+adtech.com, 11095, RESELLER
 adtech.com, 11303, RESELLER
 adtech.com, 12069, RESELLER
 adtelligent.com, 315476, DIRECT, 8ce87912eb022a51
@@ -576,7 +576,7 @@ beachfront.com, 14027, RESELLER, e2541279e8e2ca4d
 beachfront.com, 14804, RESELLER, e2541279e8e2ca4d
 beachfront.com,14804,RESELLER,e2541279e8e2ca4d
 betweendigital.com, 41430, DIRECT
-betweendigital.com, 42666, Direct
+betweendigital.com, 42666, DIRECT
 betweendigital.com, 42666, RESELLER
 betweendigital.com, 43894, RESELLER
 betweendigital.com, 44738, DIRECT
@@ -683,7 +683,7 @@ conversantmedia.com, 40915, RESELLER, 03113cd04947736d
 conversantmedia.com, 41996, DIRECT, 03113cd04947736d
 conversantmedia.com,100141,RESELLER,03113cd04947736d
 conversantmedia.com,100195,RESELLER,03113cd04947736d
-coxmt.com, 2000067907202, Reseller
+coxmt.com, 2000067907202, RESELLER
 crads.in, CR-0029, DIRECT
 criteo.com, 143820, DIRECT, 9fac4a4a87c2a44f
 criteo.com, 155036, DIRECT, 9fac4a4a87c2a44f
@@ -1205,12 +1205,12 @@ improvedigital.com,2174,RESELLER
 improvedigital.com,2195,RESELLER
 improvedigital.com,2300,RESELLER
 improvedigital.com,907,RESELLER
-incrementx.com, 100089, Direct, 8728b7e97e589da4
-incrementx.com, 100089, Direct, 8728b7e97e589da5
+incrementx.com, 100089, DIRECT, 8728b7e97e589da4
+incrementx.com, 100089, DIRECT, 8728b7e97e589da5
 incrementx.com, 50003, DIRECT, 8728b7e97e589da4
 incrementx.com, 50008, DIRECT, 8728b7e97e589da4
 incrementx.com, 50008, DIRECT, 8728b7e97e589da5
-indexexchange.com, 175407, Reseller
+indexexchange.com, 175407, RESELLER
 indexexchange.com, 182257, RESELLER
 indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 183756, RESELLER
@@ -1538,7 +1538,7 @@ onetag.com, 598ce3ddaee8c90, RESELLER
 onetag.com, 59a18369e249bfb, RESELLER
 onetag.com, 5cca11704094eb8, RESELLER
 onetag.com, 5d1628750185ace, RESELLER
-onetag.com, 5d49f482552c9b6, Reseller
+onetag.com, 5d49f482552c9b6, RESELLER
 onetag.com, 5e3dd7d316d2430, RESELLER
 onetag.com, 601a5990b7f5cf7, RESELLER
 onetag.com, 61d88450bdb25bc-OB, DIRECT
@@ -2667,7 +2667,7 @@ themediagrid.com, HLDOIR, DIRECT, 35d5010d7789b49d
 themediagrid.com, IPB3NX, DIRECT, 35d5010d7789b49d
 themediagrid.com, JTQKMP, RESELLER, 35d5010d7789b49d
 themediagrid.com, JZN34P, DIRECT, 35d5010d7789b49d
-themediagrid.com, L2139J, Reseller, 35d5010d7789b49d
+themediagrid.com, L2139J, RESELLER, 35d5010d7789b49d
 themediagrid.com, NI5YX2, DIRECT, 35d5010d7789b49d
 themediagrid.com, OTJDBI, DIRECT, 35d5010d7789b49d
 themediagrid.com, P19GFJ, RESELLER, 35d5010d7789b49d
